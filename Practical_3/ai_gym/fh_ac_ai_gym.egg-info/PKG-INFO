@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: fh_ac_ai_gym
+Version: 0.0.1
+License-File: LICENSE.md
+Requires-Dist: gym
+Requires-Dist: numpy
